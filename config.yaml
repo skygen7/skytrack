@@ -1,0 +1,7 @@
+# Configuration file
+
+name: 'Skytrack'
+
+# Параметры базы данных: имя пользователя, пароль, хост, название бд
+
+db_parameters: 'postgres://user:password@localhost/database_name'
